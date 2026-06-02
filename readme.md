@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:00ffaa&height=180&section=header&text=Laravel%20Breeze%20Auth&fontSize=42&fontAlignY=35&desc=Tugas%20Mandiri%207.2%20Pemrograman%20Web&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:00ffaa&height=180&section=header&text=Laravel%20Breeze%20Auth&fontSize=42&fontAlignY=35&desc=Tugas%20Mandiri%20Pemrograman%20Web&descAlignY=55" alt="Header" />
 
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -9,9 +9,9 @@
 
 ## Deskripsi Proyek
 
-Ini adalah proyek autentikasi Laravel menggunakan Laravel Breeze (Blade). Dibuat untuk Tugas Mandiri 7.2 mata kuliah Pemrograman Web. Sudah dimodifikasi dengan field tambahan no_hp dan role-based access untuk halaman admin.
+Ini adalah proyek autentikasi Laravel menggunakan Laravel Breeze (Blade). Dibuat untuk Tugas Mandiri mata kuliah Pemrograman Web. Sudah dimodifikasi dengan field tambahan no_hp dan role-based access untuk halaman admin.
 
-Proyek ini sengaja pakai SQLite supaya ringan, tidak perlu install XAMPP atau MySQL. Cukup clone, setup .env, migrate, jalan.
+Proyek ini sengaja menggunakan SQLite supaya ringan, tidak perlu menjalankan XAMPP atau MySQL. Cukup clone, setup .env, migrate, jalan.
 
 **Identitas:**
 - Nama: Jovantri Immanuel Gulo
@@ -39,7 +39,7 @@ npm -v
 
 ## Cara Menjalankan Proyek Ini
 
-Saya asumsikan kamu sudah dapat folder projectnya dengan nama `auth-demo`.
+Saya asumsikan kamu sudah membuat folder project laravelnya dengan nama `auth-demo`.
 
 ### 1. Masuk ke folder project
 ```bash
